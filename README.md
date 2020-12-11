@@ -1,4 +1,11 @@
-### Hi there 👋
+### My name is Niklas, and I am a
+* M.Sc. Student - Computer Science, [KTH Royal Institute of Technology.](https://www.kth.se/) 
+* Teaching assistant in the course [DD1396 Parallel and Concurrent Programming](https://www.kth.se/social/course/DD1396/)
+
+### Some of my achievements
+* 3rd place at [Scania Student Challenge 2020](https://thechallenge.scania.com/)
+
+
 
 <!--
 **nwessman/nwessman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

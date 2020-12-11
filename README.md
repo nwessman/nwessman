@@ -3,7 +3,7 @@
 * Teaching assistant in the course [DD1396 Parallel and Concurrent Programming](https://www.kth.se/social/course/DD1396/)
 
 ### Some of my achievements
-* 3rd place at [Scania Student Challenge 2020](https://thechallenge.scania.com/)
+* 3rd place at [Scania Student Challenge 2020](https://thechallenge.scania.com/) :3rd_place_medal:
 
 
 

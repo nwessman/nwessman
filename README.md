@@ -6,7 +6,8 @@
 * 3rd place at [Scania Student Challenge 2020](https://thechallenge.scania.com/) :3rd_place_medal:
 
 
-
+### Some of my projects
+* [2DMPGame](https://github.com/nwessman/2DMPGame), a two player online game written in C# and Go. :busts_in_silhouette:
 <!--
 **nwessman/nwessman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

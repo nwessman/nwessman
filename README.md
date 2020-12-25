@@ -12,7 +12,7 @@
 
 
 ## Skilled in
-[<img height="22px" src="./Icons/Java.png" />]
+[<img height="22px" src="./Icons/Java.png" />]<img height="22px" src="./Icons/Csharp.png" /><img height="22px" src="./Icons/Haskell.png" />
 
 
 

@@ -12,7 +12,7 @@
 
 
 ## Skilled in
-[<img height="22px" src="./Icons/linkedin.png" />]
+[<img height="22px" src="./Icons/Java.png" />]
 
 
 

@@ -4,6 +4,7 @@
 
 ### Some of my achievements
 * 3rd place at [Scania Student Challenge 2020](https://thechallenge.scania.com/) :3rd_place_medal:
+* Bachelor thesis [Threat modeling of large-scale computer systems: Implementing and evaluating threat modeling at Company X](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-280099) 
 
 
 ### Some of my projects

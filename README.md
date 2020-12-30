@@ -13,7 +13,7 @@
 
 
 ### Skilled in
-<img height="40px" src="./Icons/Java2.png" /> <img height="40px" src="./Icons/Python.png" /> <img height="40px" src="./Icons/Go.png" /> <img height="40px" src="./Icons/Csharp.png" /> <img height="40px" src="./Icons/Haskell.png" />
+<img height="40px" src="./Icons/Java2.png" /> <img height="40px" src="./Icons/Python.png" /> <img height="40px" src="./Icons/Go.png" /> <img height="40px" src="./Icons/Csharp.png" /> <img height="40px" src="./Icons/Haskell.png" /> <img height="40px" src="./Icons/latex_logo.png" />
 
 
 

@@ -9,6 +9,7 @@
 
 ### Some of my projects
 * :busts_in_silhouette: [2DMPGame](https://github.com/nwessman/2DMPGame), a two player online game written in C# and Go. 
+* :boom: [Minesweeper](https://github.com/nwessman/Minesweeper), a Minesweeper game written in Python.
 
 
 ### Skills

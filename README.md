@@ -10,7 +10,7 @@
 ### Some of my projects
 * :busts_in_silhouette: [2DMPGame](https://github.com/nwessman/2DMPGame), a two player online game written in C# and Go. 
 * :boom: [Minesweeper](https://github.com/nwessman/Minesweeper), a Minesweeper game written in Python.
-
+* :runner: [Flash](https://github.com/nwessman/Flash), a collection of my Flash games.
 
 ### Skills
 <img height="40px" src="./Icons/Java2.png" /> <img height="40px" src="./Icons/Python.png" /> <img height="40px" src="./Icons/Go.png" /> <img height="40px" src="./Icons/Csharp.png" /> <img height="40px" src="./Icons/Haskell.png" /> <img height="30px" src="./Icons/latex_logo.png" />

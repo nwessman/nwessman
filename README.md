@@ -3,7 +3,8 @@
 * Teaching assistant in the course [DD1396 Parallel and Concurrent Programming](https://www.kth.se/social/course/DD1396/)
 
 ### Some of my achievements
-* :3rd_place_medal: 3rd place at [Scania Student Challenge 2020](https://thechallenge.scania.com/) 
+* :3rd_place_medal: 3rd place at [Scania Student Challenge 2020](https://thechallenge.scania.com/)
+* :trophy: \#13 in Sweden (top 10% worldwide) at [Google Hash Code - Online Qualifications](https://github.com/manjikian/hashcode) 
 * :mortar_board: Bachelor thesis [Threat modeling of large-scale computer systems: Implementing and evaluating threat modeling at Company X](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-280099) 
 
 

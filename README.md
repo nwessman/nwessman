@@ -9,6 +9,8 @@
 
 
 ### Some of my projects
+* 🔥 [Chaos Engineering Demo](https://github.com/nwessman/Chaos-Engineering-Demo), a demo on how to conduct Chaos Testing with Chaos Toolkit.
+* :cat2: [Continous Integration tutorial](https://github.com/nwessman/katacoda-scenarios), a Katacoda tutorial on CI workflow using GitHub actions for Node.js, Express app, Jest and Eslint.
 * :busts_in_silhouette: [2DMPGame](https://github.com/nwessman/2DMPGame), a two player online game written in C# and Go. 
 * :boom: [Minesweeper](https://github.com/nwessman/Minesweeper), a Minesweeper game written in Python.
 * :runner: [Flash](https://github.com/nwessman/Flash), a collection of my Flash games.

@@ -1,6 +1,7 @@
 ### My name is Niklas, and I am a
 * M.Sc. Student - Computer Science, [KTH Royal Institute of Technology.](https://www.kth.se/) 
 * Teaching assistant in the course [DD1396 Parallel and Concurrent Programming](https://www.kth.se/social/course/DD1396/)
+* Software Engineer Intern @ Cisco.
 
 ### Some of my achievements
 * :3rd_place_medal: 3rd place at [Scania Student Challenge 2020](https://thechallenge.scania.com/)

@@ -5,7 +5,7 @@
 
 ### Some of my achievements
 * :3rd_place_medal: 3rd place at [Scania Student Challenge 2020](https://thechallenge.scania.com/)
-* :trophy: \#13 in Sweden (Top 7.5% worldwide) at[Google Hash Code 2022 - Online Qualifications](https://github.com/adnanjam/hash)
+* :trophy: \#13 in Sweden (Top 7.5% worldwide) at [Google Hash Code 2022 - Online Qualifications](https://github.com/adnanjam/hash)
 * :trophy: \#13 in Sweden (top 10% worldwide) at [Google Hash Code 2021 - Online Qualifications](https://github.com/manjikian/hashcode) 
 * :mortar_board: Bachelor thesis [Threat modeling of large-scale computer systems: Implementing and evaluating threat modeling at Company X](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-280099) 
 

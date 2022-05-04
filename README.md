@@ -4,6 +4,7 @@
 * Master Thesis Intern @ EA Dice.
 
 ### Some of my achievements
+* 🏆 5th place at [Meta's BountyConEDU](https://www.facebook.com/whitehat/profile/nillew)
 * :3rd_place_medal: 3rd place at [Scania Student Challenge 2020](https://thechallenge.scania.com/)
 * :trophy: \#13 in Sweden (Top 7.5% worldwide) at [Google Hash Code 2022 - Online Qualifications](https://github.com/adnanjam/hash)
 * :trophy: \#13 in Sweden (top 10% worldwide) at [Google Hash Code 2021 - Online Qualifications](https://github.com/manjikian/hashcode) 

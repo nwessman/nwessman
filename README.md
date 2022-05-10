@@ -19,6 +19,12 @@
 * :space_invader: [Galaxians](https://github.com/maggithor97/Galaxians), a clone of the arcade classic Galaxians. Written in JavaScript.
 * :runner: [Flash](https://github.com/nwessman/Flash), a collection of my Flash games.
 
+### Sites
+* [HackerOne](https://hackerone.com/nwessman)
+* [Facebook Whitehat](https://www.facebook.com/whitehat/profile/nillew)
+* [LeetCode](https://leetcode.com/nwessman/)
+* [LinkedIn](https://www.linkedin.com/in/niklas-wessman/)
+
 ### Skills
 <img height="40px" src="./Icons/Java2.png" /> <img height="40px" src="./Icons/Python.png" /> <img height="40px" src="./Icons/Go.png" /> <img height="40px" src="./Icons/Csharp.png" /> <img height="40px" src="./Icons/Haskell.png" /> <img height="30px" src="./Icons/latex_logo.png" />
 

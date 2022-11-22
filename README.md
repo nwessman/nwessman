@@ -1,7 +1,6 @@
 ### My name is Niklas, and I am a
-* M.Sc. Student - Computer Science, [KTH Royal Institute of Technology.](https://www.kth.se/) 
-* Teaching assistant in the course [DD1396 Parallel and Concurrent Programming](https://www.kth.se/social/course/DD1396/)
-* Master Thesis Intern @ EA Dice.
+* Game Developer and Backend Engineer
+
 
 ### Some of my achievements
 * 🏆 5th place at [Meta's BountyConEDU](https://www.facebook.com/whitehat/profile/nillew)

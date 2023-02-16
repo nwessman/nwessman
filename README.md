@@ -25,7 +25,7 @@
 * [LinkedIn](https://www.linkedin.com/in/niklas-wessman/)
 
 ### Skills
-<img height="40px" src="./Icons/cpp.png" /><img height="40px" src="./Icons/cs.png" /><img height="40px" src="./Icons/Java2.png" /> <img height="40px" src="./Icons/Python.png" /> <img height="40px" src="./Icons/Go.png" /><img height="40px" src="./Icons/javascript.png" />
+<img height="40px" src="./Icons/cpp.png" /><img height="40px" src="./Icons/cs.png" /><img height="40px" src="./Icons/Java2.png" /> <img height="40px" src="./Icons/Python.png" /><img height="40px" src="./Icons/javascript.png" /><img height="40px" src="./Icons/Go-Logo_LightBlue.svg" />
 
 
 

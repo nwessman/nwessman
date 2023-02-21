@@ -13,6 +13,7 @@
 
 
 ### Some of my projects
+* :airplane: [Travel Buddy](https://github.com/nwessman/Travel-buddy), a travel booking site where you can find plane tickets, accommodations and activities for locations.	
 * 🔥 [Chaos Engineering Demo](https://github.com/nwessman/Chaos-Engineering-Demo), a demo on how to conduct Chaos Testing with Chaos Toolkit.
 * :cat2: [Continous Integration tutorial](https://github.com/nwessman/katacoda-scenarios), a Katacoda tutorial on CI workflow using GitHub actions for Node.js, Express app, Jest and Eslint.
 * :busts_in_silhouette: [2DMPGame](https://github.com/nwessman/2DMPGame), a two player online game written in C# and Go. 
